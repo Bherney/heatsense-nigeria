@@ -37,7 +37,7 @@ Heatwaves are identified with the Excess Heat Factor (EHF), which combines how h
 
 ## Co-design and evaluation with users
 
-Partner agencies (NiMet, NCDC, NEMA, the Nigerian Red Cross Society and state ministries of health) take part in a requirements workshop at the start, a mid-project validation workshop, testing of the weekly outlook, and agreement of warning thresholds before hand-over. The natural language interface is evaluated with Nigerian public health practitioners using a scored rubric for accuracy, grounding and usefulness.
+Proposaed Partner agencies (NiMet, NCDC, NEMA, the Nigerian Red Cross Society and state ministries of health) take part in a requirements workshop at the start, a mid-project validation workshop, testing of the weekly outlook, and agreement of warning thresholds before hand-over. The natural language interface is evaluated with Nigerian public health practitioners using a scored rubric for accuracy, grounding and usefulness.
 
 ## Reproducibility
 
