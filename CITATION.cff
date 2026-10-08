@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or refer to this software, please cite it as below."
+title: "HeatSense Nigeria: an open-source geospatial AI system for heatwave characterisation, explainable vulnerability modelling and fine-scale early warning"
+type: software
+authors:
+  - family-names: Waheeb
+    given-names: Temitope Benedict
+    orcid: "https://orcid.org/0009-0009-2401-6481"
+    email: waheebtemitope@gmail.com
+version: "2.0"
+date-released: 2026-10-08
+url: "https://heatsense.netlify.app/"
+repository-code: "https://github.com/Bherney/heatsense-nigeria"
+license: MIT
+keywords:
+  - heatwaves
+  - early warning
+  - climate risk
+  - explainable machine learning
+  - GeoAI
+  - Nigeria
